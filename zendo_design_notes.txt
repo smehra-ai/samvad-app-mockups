@@ -1,0 +1,11 @@
+ZENDO Design-Referenz:
+- Hintergrund: Gedämpftes Dunkelblau/Slate-Blau (nicht Schwarz!) — wie ein Abendhimmel
+- Typografie: Elegant, Serif für Headlines (ZENDO in großer eleganter Serif)
+- Subtitle: "Ancient Wisdom for Modern Leaders" in kursiver Serif, Gold/Warm
+- Akzentfarbe: Warmes Gold/Amber für CTAs und Checkmarks
+- Text: Helles Cream/Off-White
+- Gesamtfeel: Ruhig, meditativ, wie ein Zen-Garten am Abend
+- Keine Bilder auf der Landing Page, aber sehr atmosphärisch durch Farbgebung
+- Viel Weißraum/Leerraum
+- Subtile Transparenz-Effekte bei den Karten
+- Kein hartes Schwarz — alles in weichen Blautönen
