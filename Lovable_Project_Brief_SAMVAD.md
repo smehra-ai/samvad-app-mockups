@@ -96,8 +96,8 @@ Four interactive educational modules:
 
 ### 5.3 Subscription Model (Paddle)
 - **Free:** 2 generated guides per month.
-- **Essential:** €9.99/month (10 guides/month, full module access, Insights access, PDF export).
-- **Professional:** €19.99/month or €149/year (Unlimited guides, full access).
+- **Essential:** €12.99/month or €99/year — Save 36% (10 guides/month, full module access, Insights access, PDF export).
+- **Professional:** €24.99/month or €199/year (Unlimited guides, full access, priority support).
 
 ## 6. Assets Provided in GitHub
 The following assets will be uploaded to the GitHub repository to guide the Lovable build:
